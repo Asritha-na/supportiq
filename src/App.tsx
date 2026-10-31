@@ -1,6 +1,6 @@
 import { useMemo, useState } from 'react'
 import {
-  Activity, ArrowDownRight, ArrowUpRight, BookOpen, Bot, Check, ChevronDown, CircleHelp,
+  Activity, ArrowUpRight, BookOpen, Bot, Check, ChevronDown, CircleHelp,
   Clock3, Command, FileText, Filter, LayoutDashboard, MessageCircle, MoreHorizontal,
   Plus, Search, Send, Settings2, ShieldCheck, Sparkles, ThumbsDown, ThumbsUp, TrendingUp,
   Users, X, Zap
